@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>change.short_description</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>alena.polisuk</sys_created_by>
+        <sys_created_on>2020-04-28 14:03:41</sys_created_on>
+        <sys_id>d87ec280dbe058507f6ffabdbf96194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>change.short_description</sys_name>
+        <sys_package display_value="testabc" source="x_26517_testabc">0ba326514f32c41085e8fa218110c782</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testabc">0ba326514f32c41085e8fa218110c782</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d87ec280dbe058507f6ffabdbf96194d</sys_update_name>
+        <sys_updated_by>alena.polisuk</sys_updated_by>
+        <sys_updated_on>2020-04-28 14:03:41</sys_updated_on>
+        <table>x_26517_testabc_test_abc</table>
+        <ui_policy display_value="Make change fields read only">195ece40dbe058507f6ffabdbf96194c</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

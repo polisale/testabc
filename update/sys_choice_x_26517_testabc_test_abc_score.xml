@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="score" table="x_26517_testabc_test_abc" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>score</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Red</label>
+            <language>en</language>
+            <name>x_26517_testabc_test_abc</name>
+            <sequence>1</sequence>
+            <sys_created_by>alena.polisuk</sys_created_by>
+            <sys_created_on>2020-04-28 13:56:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3bc06ccdba058507f6ffabdbf961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>alena.polisuk</sys_updated_by>
+            <sys_updated_on>2020-04-28 13:56:09</sys_updated_on>
+            <value>Red</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>score</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yellow</label>
+            <language>en</language>
+            <name>x_26517_testabc_test_abc</name>
+            <sequence>2</sequence>
+            <sys_created_by>alena.polisuk</sys_created_by>
+            <sys_created_on>2020-04-28 13:56:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8ec06ccdba058507f6ffabdbf96190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>alena.polisuk</sys_updated_by>
+            <sys_updated_on>2020-04-28 13:56:44</sys_updated_on>
+            <value>Yellow</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>score</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Green</label>
+            <language>en</language>
+            <name>x_26517_testabc_test_abc</name>
+            <sequence>3</sequence>
+            <sys_created_by>alena.polisuk</sys_created_by>
+            <sys_created_on>2020-04-28 13:57:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12fc0accdba058507f6ffabdbf961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>alena.polisuk</sys_updated_by>
+            <sys_updated_on>2020-04-28 13:57:05</sys_updated_on>
+            <value>Green</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>score</element>
+            <name>x_26517_testabc_test_abc</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>alena.polisuk</sys_created_by>
+            <sys_created_on>2020-04-28 13:56:10</sys_created_on>
+            <sys_id>cbcc06ccdba058507f6ffabdbf9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>score</sys_name>
+            <sys_package display_value="testabc" source="x_26517_testabc">0ba326514f32c41085e8fa218110c782</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testabc">0ba326514f32c41085e8fa218110c782</sys_scope>
+            <sys_update_name>sys_choice_x_26517_testabc_test_abc_score</sys_update_name>
+            <sys_updated_by>alena.polisuk</sys_updated_by>
+            <sys_updated_on>2020-04-28 13:56:10</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

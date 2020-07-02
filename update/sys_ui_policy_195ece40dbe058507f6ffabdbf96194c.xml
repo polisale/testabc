@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Make change fields read only</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>alena.polisuk</sys_created_by>
+        <sys_created_on>2020-04-28 14:03:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>195ece40dbe058507f6ffabdbf96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Make change fields read only</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testabc" source="x_26517_testabc">0ba326514f32c41085e8fa218110c782</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testabc">0ba326514f32c41085e8fa218110c782</sys_scope>
+        <sys_update_name>sys_ui_policy_195ece40dbe058507f6ffabdbf96194c</sys_update_name>
+        <sys_updated_by>alena.polisuk</sys_updated_by>
+        <sys_updated_on>2020-04-28 14:03:07</sys_updated_on>
+        <table>x_26517_testabc_test_abc</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="test abc" max_length="40" name="x_26517_testabc_test_abc" type="collection">
+        <element label="Change" max_length="32" name="change" reference="change_request" type="reference"/>
+        <element choice="1" label="Score" max_length="40" name="score" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Red" sequence="1" value="Red"/>
+                <element inactive_on_update="false" label="Yellow" sequence="2" value="Yellow"/>
+                <element inactive_on_update="false" label="Green" sequence="3" value="Green"/>
+            </choice>
+        </element>
+        <element choice="1" label="Short Description Score" max_length="40" name="short_description_score" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Red" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Yellow" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Green" sequence="3" value="Green"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="change"/>
+        </index>
+    </element>
+</database>
