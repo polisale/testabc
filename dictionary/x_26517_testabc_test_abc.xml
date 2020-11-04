@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="test abc" max_length="40" name="x_26517_testabc_test_abc" type="collection">
+    <element label="test abc" max_length="40" name="x_26517_testabc_test_abc" sizeclass="2" type="collection">
         <element label="Change" max_length="32" name="change" reference="change_request" type="reference"/>
         <element choice="1" label="Score" max_length="40" name="score" type="choice">
             <choice>
